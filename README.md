@@ -1,2 +1,2 @@
-# jQuery
+# jQuery (lib)
 Today i learn
