@@ -1,2 +1,2 @@
 # jQuery (lib)
-Today i learn
+Today i learn.
